@@ -25,7 +25,6 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
 
         Product[] items = {
-                new Product(1,"Milk",21.50),
                 new Product(2, "Butter", 15.99),
                 new Product(3, "Yogurt", 14.90),
                 new Product(4, "Toothpaste", 7.99),
