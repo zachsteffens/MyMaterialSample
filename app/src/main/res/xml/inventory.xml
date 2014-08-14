@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root xmlns:android="http://schemas.android.com/apk/res/android">
+    <ProductGroup name="TJI">
+        <ProductSeries name="Series1">
+            <Product>
+                <Length>14</Length>
+                <InStock>10</InStock>
+                <Location>infeed</Location>
+                <TargetLevel>5</TargetLevel>
+                <ProductID>1234</ProductID>
+                <ProductItemID>1</ProductItemID>
+            </Product>
+        </ProductSeries>
+        <ProductSeries name="Series2">
+            <Product>
+                <Length>14</Length>
+                <InStock>5</InStock>
+                <Location>infeed</Location>
+                <TargetLevel>5</TargetLevel>
+                <ProductID>1235</ProductID>
+                <ProductItemID>2</ProductItemID>
+            </Product>
+            <Product>
+                <Length>20</Length>
+                <InStock>10</InStock>
+                <Location>infeed</Location>
+                <TargetLevel>5</TargetLevel>
+                <ProductID>1235</ProductID>
+                <ProductItemID>3</ProductItemID>
+            </Product>
+        </ProductSeries>
+    </ProductGroup>
+</root>
